@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tmr-final-viz-app/static/css/main.4edfb210.css",
-    "main.js": "/tmr-final-viz-app/static/js/main.f4ea1202.js",
-    "static/js/787.4e1df323.chunk.js": "/tmr-final-viz-app/static/js/787.4e1df323.chunk.js",
-    "index.html": "/tmr-final-viz-app/index.html",
-    "main.4edfb210.css.map": "/tmr-final-viz-app/static/css/main.4edfb210.css.map",
-    "main.f4ea1202.js.map": "/tmr-final-viz-app/static/js/main.f4ea1202.js.map",
-    "787.4e1df323.chunk.js.map": "/tmr-final-viz-app/static/js/787.4e1df323.chunk.js.map"
+    "main.css": "/tmd-final-viz-app/static/css/main.4edfb210.css",
+    "main.js": "/tmd-final-viz-app/static/js/main.8f2616e7.js",
+    "static/js/787.4e1df323.chunk.js": "/tmd-final-viz-app/static/js/787.4e1df323.chunk.js",
+    "index.html": "/tmd-final-viz-app/index.html",
+    "main.4edfb210.css.map": "/tmd-final-viz-app/static/css/main.4edfb210.css.map",
+    "main.8f2616e7.js.map": "/tmd-final-viz-app/static/js/main.8f2616e7.js.map",
+    "787.4e1df323.chunk.js.map": "/tmd-final-viz-app/static/js/787.4e1df323.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4edfb210.css",
-    "static/js/main.f4ea1202.js"
+    "static/js/main.8f2616e7.js"
   ]
 }
