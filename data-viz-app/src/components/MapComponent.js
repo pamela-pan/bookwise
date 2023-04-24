@@ -123,7 +123,7 @@ class MapComponent extends React.Component {
         <Banner
           title="2020 Election Misinformation & Book Readership Trends"
           buttonText = "Team BookWise"
-          buttonLink = "www.google.com"
+          buttonLink = "https://drive.google.com/drive/folders/1p0h7Sk2rGJGoJrfnLfN-RbqiaxZ3naia"
         />
         <div id="map" style={{ height: "1000px" }}></div>
         <Legend />
