@@ -39,11 +39,59 @@
 /* Legend styling */
 .legend-box{
   position: absolute;
-  top: 70px;
+  top: 115px;
   left: 10px;
   background: #fff;
   border-radius: 5px;
   padding: 10px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.3);
   z-index: 1000
+}
+
+
+.dropdown-box {
+  position: absolute;
+  top: 215px;
+  left: 10px;
+  background: #fff;
+  border-radius: 5px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+  z-index: 1000;
+  padding-left: 26px;
+  padding-right: 26px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.banner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: left;
+  color:#3b444b;
+  font-weight: bold;
+  background: #94D2A5;
+  padding: 15px;
+  /* margin: 20px; */
+  /* box-shadow: 0 2px 6px rgba(0,0,0,0.3); */
+  z-index: 1000;
+  
+}
+.banner button {
+  background-color: #ffffff;
+  color: #94D2A5;
+  border: 2px solid #94D2A5;
+  border-radius: 20px;
+  padding: 5px 15px;
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+  margin-left: 20px;
+}
+
+.banner button:hover {
+  background-color: #94D2A5;
+  color: #ffffff;
 }
