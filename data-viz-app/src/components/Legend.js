@@ -1,6 +1,6 @@
 import React from "react";
 import bookIcon from "../img/icon-green-dot.png";
-import misinfoIcon from "../img/icon-red-tri.png";
+import misinfoIcon from "../img/icon-red-dot.png";
 import "../App.css";
 
 const Legend = () => {
@@ -13,7 +13,7 @@ const Legend = () => {
           alt="Book Icon"
           style={{ height: "30px", marginRight: "10px" }}
         />
-        <span style={{ fontWeight: "bold" }}>Book</span>
+        <span style={{ fontWeight: "bold" }}>Book Readership  </span>
       </div>
       <div style={{ display: "flex", alignItems: "center", marginTop: "10px" }}>
         <img
@@ -21,7 +21,7 @@ const Legend = () => {
           alt="Misinformation Icon"
           style={{ height: "30px", marginRight: "10px" }}
         />
-        <span style={{ fontWeight: "bold" }}>Misinformation</span>
+        <span style={{ fontWeight: "bold" }}>Misinformation  </span>
       </div>
     </div>
   );

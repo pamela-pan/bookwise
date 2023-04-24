@@ -1,6 +1,6 @@
 import React from "react";
 import bookIcon from "../img/icon-green-dot.png";
-import misinfoIcon from "../img/icon-red-tri.png";
+import misinfoIcon from "../img/icon-red-dot.png";
 import Legend from "./Legend";
 import Banner from "./Banner";
 
@@ -122,7 +122,7 @@ class MapComponent extends React.Component {
       <div>
         <Banner
           title="2020 Election Misinformation & Book Readership Trends"
-          buttonText = "Learn More"
+          buttonText = "Team BookWise"
           buttonLink = "www.google.com"
         />
         <div id="map" style={{ height: "1000px" }}></div>
