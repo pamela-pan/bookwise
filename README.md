@@ -3,6 +3,8 @@ This project explores the spread of election-related misinformation and politica
 
 Contributors: Courtney Beckham, Pamela Pan, Andrea Wan
 
+Cornell Tech | INFO 5330 - Technology, Media, and Democracy
+
 ## Part I: Data Visualization App
 Link: [https://pamela-pan.github.io/tmd-final-viz-app/]
 <img width="1493" alt="image" src="https://github.com/pamela-pan/bookwise/assets/53935081/858f1a69-d080-439e-9c87-e68dc98aa82a">
@@ -19,9 +21,11 @@ Utilizing the geopandas package, our team was able to join user locations to the
 Utilizing the Python corr() function with the Pearson standard correlation coefficient, we analyzed correlations between the political information and tweet information. As seen in the figure below, there is a moderately positive correlation between users tweeting about misinformation and counties that voted Republican in 2020. There is also a negative correlation between users tweeting about books and counties that voted Republican in 2020. The inverse is true for Democrats, with a moderate correlation between users tweeting about books and counties that voted Democrat, and a negative correlation between users tweeting about misinformation and counties that voted Democrat. This suggests that misinformation is more likely to spread in areas that voted Republican in the 2020 election, while more book discourse is likely to spread in areas that voted Democrat. However, it is important to note that correlation does not equal causation, and that many other factors and variables were excluded from the scope of this project that could be causing this correlation.
 
 <img width="746" alt="image" src="https://github.com/pamela-pan/bookwise/assets/53935081/45182f49-0fcb-4a69-af74-f7f2876d6ac6">
+
 Fig 1. Correlation between partisan bias, books, and misinformation
 
 <img width="568" alt="image" src="https://github.com/pamela-pan/bookwise/assets/53935081/9da1d638-2248-4770-8b37-bd1a2ed5b2ae">
+
 Fig. 2: Relationship between reading habits and voting patterns
 
 
