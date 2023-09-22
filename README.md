@@ -6,7 +6,7 @@ Contributors: Courtney Beckham, Pamela Pan, Andrea Wan
 Cornell Tech | INFO 5330 - Technology, Media, and Democracy
 
 ## Part I: Data Visualization App
-Link: [https://pamela-pan.github.io/tmd-final-viz-app/]
+[Link to app](https://pamela-pan.github.io/tmd-final-viz-app/)
 <img width="1493" alt="image" src="https://github.com/pamela-pan/bookwise/assets/53935081/858f1a69-d080-439e-9c87-e68dc98aa82a">
 
 The website features a Google map containing the geocoded information from the Google Maps API view centering the United States and displays the areas where people were tweeting about political books and misinformation narratives. For a speed-maximizing user experience, the website prototype only imported 15% of the tweets data, which were randomly and respectively drawn from two datasets (books and misinformation narratives).
@@ -38,6 +38,7 @@ Fig. 2: Relationship between reading habits and voting patterns
 – Pulled all tweet author information for the misinformation narratives and NYT bestsellers list.
 
 – Connected to and utilized the Google Maps API to resolve string locations to latitude/longitudes.
+
 – Utilized Geopandas to perform geospatial analysis of authors
 
 – Utilized Python correlation package to perform statistical analysis of authors
@@ -45,7 +46,9 @@ Fig. 2: Relationship between reading habits and voting patterns
 • Pamela Pan:
 
 – Sampled and cleaned geospatial data as preparation for visualization.
+
 – Created interactive data visualization web application using React.JS.
+
 – Conducted literature review on the topic of misinformation, book readership, and information literacy.
 
 • Andrea Wan:
